@@ -1,0 +1,5 @@
+{
+  "name": "Smart City Traffic Simulator",
+  "description": "A high-fidelity urban traffic simulation featuring multiple junction types, emergency vehicle priority, and customizable driving behaviors.",
+  "requestFramePermissions": []
+}
